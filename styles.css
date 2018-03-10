@@ -1,0 +1,14 @@
+h1 {
+    color: blue
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    width: 1000px;
+}
+
+.features-list {
+    width: 60%;
+}
