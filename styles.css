@@ -9,6 +9,6 @@ h1 {
     width: 1000px;
 }
 
-.features-list {
+.features-list, .knowledge-requirements-list {
     width: 60%;
 }
